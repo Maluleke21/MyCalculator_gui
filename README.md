@@ -9,7 +9,7 @@ This is a simple GUI calculator built using **Tkinter** in Python. It supports b
 - Error handling for invalid inputs ⚠️
 
  📸 Screenshot
-![Calculator GUI](screenshot.png)
+Screenshot is provided above
 
 ## 🚀 Installation & Usage
 1. Clone this repository:
